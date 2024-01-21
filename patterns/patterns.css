@@ -1,0 +1,185 @@
+@font-face {
+    font-family: 'Venus';
+    src: url(/Venus+Acier.ttf);
+}
+
+html{
+    color: blue;
+ }
+ 
+ .availablity-icon{
+    position: absolute;
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    background-color: rgb(0, 255, 89);
+    left:5%;
+    top:5%;
+}
+
+.title-content{
+    font-family: 'Venus';
+}
+
+.featured-work{
+    font-family: 'Venus';
+}
+
+.name{
+    position: absolute;
+    
+    font-size: 40px;
+    color:black;
+    left:8vw;
+    top:5vh;
+    text-decoration: none;
+}
+
+.portfolio{
+    position: absolute;
+    
+    font-size: 40px;
+    color:black;
+    left:20vw;
+    top:5vh;
+    text-decoration: underline;
+}
+
+.contact{
+    position: absolute;
+    
+    font-size: 40px;
+    color:black;
+    left:30vw;
+    top:5vh;
+    text-decoration: none;
+}
+
+.CAPTCHR{
+    position: absolute;
+    
+    font-size: 30px;
+    color:black;
+    top: 8vh;
+    left:25vw;
+    text-decoration: none;
+}
+
+.Circulation{
+    position: absolute;
+    
+    font-size: 30px;
+    color:black;
+    top: 8vh;
+    left:40vw;
+    text-decoration: none;
+}
+
+.patterns{
+    position: absolute;
+    
+    font-size: 30px;
+    color:black;
+    top: 8vh;
+    left:50vw;
+    text-decoration: underline;
+}
+
+.MDF-bark{
+    position: absolute;
+        
+    font-size: 30px;
+    color:black;
+    top: 8vh;
+    left:60vw;
+    text-decoration: none;
+    }
+
+.lichen{
+    position: absolute;
+        
+    font-size: 30px;
+    color:black;
+    top:8vh;
+    left:80vw;
+    text-decoration: none;
+    }
+
+ .batch1{
+    position: absolute;
+     
+     font-size: 30px;
+     color:black;
+     top: 15vh;
+     left:50vw;
+     text-decoration: none;
+ }
+
+ .batch2{
+    position: absolute;
+     
+     font-size: 30px;
+     color:black;
+     top: 15vh;
+     left:55vw;
+     text-decoration: none;
+ }
+
+ .batch3{
+    position: absolute;
+     
+     font-size: 30px;
+     color:black;
+     top: 15vh;
+     left:60vw;
+     text-decoration: none;
+ }
+
+ .intro{
+    position: absolute;
+    font-family:'Venus';
+    font-size: 30px;
+    color:black;
+    top:30%;
+    left:20%;
+    text-decoration: none;
+    
+}
+
+.description{
+    position: absolute;
+    font-family:'Venus';
+    font-size: 30px;
+    color:black;
+    top:70%;
+    left:20%;
+    text-decoration: none;
+    padding-top:3vh;
+}
+
+.pattern-inspo{
+    position: absolute;
+    top:30%;
+    left:40%;
+    height:40%;
+}
+
+.pipe{
+    position: absolute;
+    top:30%;
+    left:60%;
+    height:40%;
+}
+
+.td1{
+    position: absolute;
+    top:80%;
+    left:20%;
+    height:35%;
+}
+.td2{
+    position: absolute;
+    top:80%;
+    left:39%;
+    height:35%;
+}
