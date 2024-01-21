@@ -1,0 +1,143 @@
+@font-face {
+    font-family: 'Venus';
+    src: url(/Venus+Acier.ttf);
+}
+
+.availablity-icon{
+    position: absolute;
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    background-color: rgb(0, 255, 89);
+    left:5%;
+    top:5%;
+}
+
+.title-content{
+    font-family: 'Venus';
+}
+
+.featured-work{
+    font-family: 'Venus';
+}
+
+.name{
+    position: absolute;
+    
+    font-size: 40px;
+    color:black;
+    left:8vw;
+    top:5vh;
+    text-decoration: none;
+}
+
+.portfolio{
+    position: absolute;
+    
+    font-size: 40px;
+    color:black;
+    left:20vw;
+    top:5vh;
+    text-decoration: underline;
+}
+
+.contact{
+    position: absolute;
+    
+    font-size: 40px;
+    color:black;
+    left:30vw;
+    top:5vh;
+    text-decoration: none;
+}
+
+.CAPTCHR{
+    position: absolute;
+    
+    font-size: 30px;
+    color:black;
+    top: 8vh;
+    left:25vw;
+    text-decoration: none;
+}
+
+.Circulation{
+    position: absolute;
+    
+    font-size: 30px;
+    color:black;
+    top: 8vh;
+    left:40vw;
+    text-decoration: underline;
+}
+
+.patterns{
+    position: absolute;
+    
+    font-size: 30px;
+    color:black;
+    top: 8vh;
+    left:50vw;
+    text-decoration: none;
+}
+
+.MDF-bark{
+    position: absolute;
+        
+    font-size: 30px;
+    color:black;
+    top: 8vh;
+    left:60vw;
+    text-decoration: none;
+    }
+
+.lichen{
+    position: absolute;
+        
+    font-size: 30px;
+    color:black;
+    top:8vh;
+    left:80vw;
+    text-decoration: none;
+    }
+
+    .intro{
+        position: absolute;
+        font-family:'Venus';
+        font-size: 30px;
+        color:black;
+        top:15vh;
+        left:10vw;
+        text-decoration: none;
+        padding-top:3vh;
+    }
+
+
+
+.grid-container{
+    position: absolute;
+    width:80vw;
+    left:10vw;
+    position:absolute;
+    align-items:center;
+    gap: 15%;
+    
+}
+
+   .gallery__img
+  { 
+    padding-top:80px;
+    width:80%;
+    left:10%
+  }
+
+  .gallery__img-1
+  { 
+    
+    width:20%;
+    left:10%
+  }
+
+  
+  
+
